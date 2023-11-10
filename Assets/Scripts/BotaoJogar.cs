@@ -15,4 +15,8 @@ public class BotaoJogar : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+    public void Creditos()
+    {
+        SceneManager.LoadScene(2);
+    }
 }

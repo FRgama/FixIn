@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
                 FimDeJogo.gameObject.SetActive(true);
                 TelaInicial.gameObject.SetActive(true);
                 Cursor.visible = true;
-                Time.timeScale = 0; // Impossibilitado de se mexer até apertar para jogar novamente.
+                Time.timeScale = 0; // Impossibilitado de se mexer ate apertar para jogar novamente.
                 break;
         }
     }

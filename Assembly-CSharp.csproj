@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\Bola.cs" />
     <Compile Include="Assets\Scripts\Bloco.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Sair.cs" />
     <Compile Include="Assets\Scripts\BotaoJogar.cs" />
     <Compile Include="Assets\Scripts\Restart.cs" />
     <Compile Include="Assets\Scripts\GameRespawn.cs" />

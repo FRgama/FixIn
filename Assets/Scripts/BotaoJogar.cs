@@ -9,6 +9,10 @@ public class BotaoJogar : MonoBehaviour
 
     public void Jogar()
     {
-        SceneManager.LoadScene(SceneName);
+        SceneManager.LoadScene(1);
+    }
+    public void Menu()
+    {
+        SceneManager.LoadScene(0);
     }
 }

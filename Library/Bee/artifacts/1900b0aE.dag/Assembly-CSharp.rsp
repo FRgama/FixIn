@@ -360,6 +360,7 @@
 "Assets/Scripts/Jogador.cs"
 "Assets/Scripts/LevelManager.cs"
 "Assets/Scripts/Restart.cs"
+"Assets/Scripts/Sair.cs"
 -langversion:9.0
 
 /deterministic
